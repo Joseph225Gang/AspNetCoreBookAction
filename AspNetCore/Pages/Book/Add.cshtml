@@ -1,0 +1,22 @@
+﻿@page
+@model AspNetCore.AddModel
+@{
+    ViewData["Title"] = "Add";
+}
+
+<h1>Add</h1>
+
+<form method="post">
+
+    <div class="form-group">
+        <label>書名</label>
+        <input asp-for="Book.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>作者</label>
+        <input asp-for="Book.Author" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+

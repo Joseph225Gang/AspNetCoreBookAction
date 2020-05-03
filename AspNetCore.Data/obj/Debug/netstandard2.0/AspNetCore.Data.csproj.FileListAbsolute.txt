@@ -1,0 +1,11 @@
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\bin\Debug\netstandard2.0\AspNetCore.Data.deps.json
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\bin\Debug\netstandard2.0\AspNetCore.Data.dll
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\obj\Debug\netstandard2.0\AspNetCore.Data.AssemblyInfoInputs.cache
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\obj\Debug\netstandard2.0\AspNetCore.Data.AssemblyInfo.cs
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\bin\Debug\netstandard2.0\AspNetCore.Data.pdb
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\bin\Debug\netstandard2.0\AspNetCore.Core.dll
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\bin\Debug\netstandard2.0\AspNetCore.Core.pdb
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\obj\Debug\netstandard2.0\AspNetCore.Data.csprojAssemblyReference.cache
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\obj\Debug\netstandard2.0\AspNetCore.Data.csproj.CopyComplete
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\obj\Debug\netstandard2.0\AspNetCore.Data.dll
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Data\obj\Debug\netstandard2.0\AspNetCore.Data.pdb

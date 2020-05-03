@@ -1,0 +1,8 @@
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Core\bin\Debug\netstandard2.0\AspNetCore.Core.deps.json
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Core\bin\Debug\netstandard2.0\AspNetCore.Core.dll
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Core\bin\Debug\netstandard2.0\AspNetCore.Core.pdb
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Core\obj\Debug\netstandard2.0\AspNetCore.Core.csprojAssemblyReference.cache
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Core\obj\Debug\netstandard2.0\AspNetCore.Core.AssemblyInfoInputs.cache
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Core\obj\Debug\netstandard2.0\AspNetCore.Core.AssemblyInfo.cs
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Core\obj\Debug\netstandard2.0\AspNetCore.Core.dll
+D:\Visual Sutdio 2019\AspNetCore\AspNetCore.Core\obj\Debug\netstandard2.0\AspNetCore.Core.pdb
